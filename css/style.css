@@ -17,6 +17,23 @@ body {
     display: flex;
     justify-content: center;
 }
+    
+header { 
+    display: flex;  
+    justify-content: space-between;
+    align-items: flex-start;
+} 
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 68px;
+}
+nav :hover {
+color:#0065FC;
+border-top: 2px solid;
+
+}
 
 .main-container {
     width: 100%;
