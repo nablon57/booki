@@ -90,7 +90,7 @@ nav a:hover {
     font-weight: bold;
 }
 
-#search-input:value {
+#search-input {
     font-weight: bold;
     color: black;
     font-size: 18px;
